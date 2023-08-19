@@ -3,7 +3,7 @@ GUI for Scrcpy that makes it easier to use. The GUI has a simple and intuitive i
 
 Introduction:
 
-Scrcpy is a free and open-source screen mirroring application that allows control of an Android device from a Windows, macOS, or Linux desktop computer. It does not require rooting or the installation or running of an app on the Android device. The screen content is streamed as H. 264 video, which the software then decodes and displays on the computer. The software pushes keyboard and mouse input to the Android device over the server.
+Scrcpy is a free and open-source screen mirroring application that allows control of an Android device from a Windows desktop computer. It does not require rooting or the installation or running of an app on the Android device. The screen content is streamed as H. 264 video, which the software then decodes and displays on the computer. The software pushes keyboard and mouse input to the Android device over the server.
 
 Problem:
 
@@ -21,7 +21,7 @@ Mirrors the Android device screen in real time
 Supports video and audio mirroring
 Allows you to control the Android device with your keyboard and mouse
 Does not require rooting or the installation of any apps on the Android device
-Works on Windows, macOS, and Linux
+Works on Windows
 Lightweight and efficient
 How to use:
 
