@@ -32,3 +32,5 @@ To use the Scrcpy GUI, simply download the executable file and run it. The GUI w
 Conclusion:
 
 The Scrcpy GUI is a great way to make Scrcpy easier to use. If you are looking for a way to mirror your Android screen to your computer, I highly recommend using the Scrcpy GUI.
+
+![EXPO-Scrcpy mirroring](https://github.com/EXPOSUREEE/Scrcpy-GUI/assets/113922464/045273e9-0c81-485b-8d7a-21bed31fd2dd)
